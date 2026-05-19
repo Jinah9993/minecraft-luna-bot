@@ -10,6 +10,9 @@ A Discord bot that lets you control a Minecraft server through slash commands �
 
 The bot listens to Discord Gateway events via WebSocket and forwards commands to an AWS API Gateway endpoint, which triggers a Lambda function to start or stop the EC2 instance running the Minecraft server.
 
+<img width="274" height="166" alt="image" src="https://github.com/user-attachments/assets/9e2d092b-e5ba-47ac-a723-b6ec28206182" />
+
+
 ---
 
 ## 🏗️ Architecture
